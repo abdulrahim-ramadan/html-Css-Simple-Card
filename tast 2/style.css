@@ -1,0 +1,38 @@
+body{
+    font-family: 'Tilt Neon', sans-serif;
+}
+.card{
+    width: 20%;
+    border: 1px solid black;
+    padding: 20px 30px;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+.card img{
+    width: 100%;
+}
+.card h2{
+    font-weight: 400;
+}
+.card p{
+    font-size: 20px;
+}
+.card a{
+    text-decoration: none;
+    border: 2px solid;
+    padding: 1px 20px;
+    color: black;
+    border-radius: 7px;
+    display: inline-block;
+    margin: 10px 0;
+}
+
+.card a:hover{
+    background-color: black;
+    color:white
+}
+.card:hover{
+    box-shadow: -9px 7px 30px 10px rgba(0,0,0,0.56);
+-webkit-box-shadow: -9px 7px 30px 10px rgba(0,0,0,0.56);
+-moz-box-shadow: -9px 7px 30px 10px rgba(0,0,0,0.56);
+}
