@@ -1,6 +1,6 @@
-# html-Css-Simple-Card
+# Simple-Card
 Simple card design using html &amp; scc
 
 
-## demo
+## Demo
 ![Demo](screenshot.png)
